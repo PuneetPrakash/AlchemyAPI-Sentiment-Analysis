@@ -15,7 +15,8 @@ For the Front-end,
 
 - Install [Flask](http://flask.pocoo.org/docs/0.10/installation/)       
 - From terminal run,     
-        
 ``` 
 $ python app.py
-```
+```      
+
+open a browser and go to http://localhost:5000/,
