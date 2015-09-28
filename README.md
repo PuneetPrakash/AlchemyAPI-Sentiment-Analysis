@@ -12,6 +12,6 @@ For the Front-end,
 - dc.js Javascript charting library that leverages both crossfilter.js and d3.js, and makes the creation of data visualization simple.
 
 ## To run    
-Install [Flask](http://flask.pocoo.org/docs/0.10/installation/)
-From terminal run, 
+Install [Flask](http://flask.pocoo.org/docs/0.10/installation/)       
+From terminal run,        
 $ python app.py
