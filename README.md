@@ -19,4 +19,4 @@ For the Front-end,
 $ python app.py
 ```      
 
-open a browser and go to http://localhost:5000/,
+open a browser and go to http://localhost:5000/
